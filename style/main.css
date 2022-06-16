@@ -744,22 +744,47 @@ hr {
     color: #ffec00;
     background: #18181c;
     font-size: 26px;
-    border-radius: 8px; }
+    border-radius: 9px; }
   .tile.tile-182 .tile-inner {
     color: #ffa200;
     background: #18181c;
     font-size: 26px;
-    border-radius: 8px; }
+    border-radius: 9px; }
   .tile.tile-183 .tile-inner {
     color: #ff3e00;
     background: #18181c;
     font-size: 26px;
-    border-radius: 8px; }
+    border-radius: 9px; }
   .tile.tile-184 .tile-inner {
     color: #ff0068;
     background: #18181c;
     font-size: 26px;
-    border-radius: 8px; }
+    border-radius: 9px; }
+  .tile.tile-185 .tile-inner {
+    color: #ec00ff;
+    background: #18181c;
+    font-size: 26px;
+    border-radius: 9px; }
+  .tile.tile-881 .tile-inner {
+    color: #6f1d1d;
+    background: #847272;
+    font-size: 26px;
+    border-radius: 9px; }
+  .tile.tile-882 .tile-inner {
+    color: #6f3d1d;
+    background: #847272;
+    font-size: 26px;
+    border-radius: 9px; }
+  .tile.tile-883 .tile-inner {
+    color: #6f561d;
+    background: #847272;
+    font-size: 26px;
+    border-radius: 9px; }
+  .tile.tile-884 .tile-inner {
+    color: #6f6e1d;
+    background: #847272;
+    font-size: 26px;
+    border-radius: 9px; }
   .tile.tile-41 .tile-inner {
     color: #791111;
     background: #abecbf; }
