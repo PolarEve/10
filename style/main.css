@@ -684,6 +684,46 @@ hr {
     color: #2cffd9;
     background: #fefe30;
     font-size: 26px; }
+  .tile.tile-151 .tile-inner {
+    color: #680622;
+    background: #49c78d;
+    font-size: 26px; }
+  .tile.tile-152 .tile-inner {
+    color: #680622;
+    background: #7dc749;
+    font-size: 26px; }
+  .tile.tile-444 .tile-inner {
+    color: #14e914;
+    background: #c76949;
+    font-size: 26px; }
+  .tile.tile-882 .tile-inner {
+    color: #dee5de;
+    background: #e1d2c3;
+    font-size: 26px; }
+  .tile.tile-107 .tile-inner {
+    color: #c05302;
+    background: #ff9700;
+    font-size: 26px; }
+  .tile.tile-300 .tile-inner {
+    color: #f9f6f2;
+    background: #b3b0df;
+    font-size: 26px; }
+  .tile.tile-555 .tile-inner {
+    color: #ff425c;
+    background: #ffd142;
+    font-size: 26px; }
+  .tile.tile-5555 .tile-inner {
+    color: #ffd142;
+    background: #ff425c;
+    font-size: 20px; }
+  .tile.tile-55555 .tile-inner {
+    color: #ffffff;
+    background: #543035;
+    font-size: 16px; }
+  .tile.tile-416 .tile-inner {
+    color: #f9eff0;
+    background: #fcc2ca;
+    font-size: 26px; }
   .tile.tile-140 .tile-inner {
     color: #d36e34;
     background: #713b1c;
