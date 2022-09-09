@@ -524,6 +524,11 @@ hr {
     color: #ef951a;
     background: #ef951a;
     font-size: 25px; }
+  .tile.tile-222 .tile-inner {
+    color: #ef951a;
+    background: #ef951a;
+    font-size: 25px;
+    border-radius: 25px; }
   .tile.tile-3 .tile-inner {
     color: #f9f6f2;
     background: #ea2215; }
