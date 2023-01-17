@@ -664,6 +664,12 @@ hr {
   .tile.tile--4 .tile-inner {
     color: #f9f6f2;
     background: #00ff9b; }
+  .tile.tile--6 .tile-inner {
+    color: #f9f6f2;
+    background: #ebebec; }
+  .tile.tile--7 .tile-inner {
+    color: #f9f6f2;
+    background: #bcbcbd; }
   .tile.tile-20 .tile-inner {
     color: #ff5281;
     background: #3c4164; }
@@ -973,6 +979,14 @@ hr {
   .tile.tile-999 .tile-inner {
     color: #f9f6f2;
     background: #b9be96;
+    font-size: 26px; }
+  .tile.tile-505 .tile-inner {
+    color: #b171ea;
+    background: #7b2ac2;
+    font-size: 26px; }
+  .tile.tile-229 .tile-inner {
+    color: #1e0340;
+    background: #71eae8;
     font-size: 26px; }
   .tile.tile-4449 .tile-inner {
     color: #f9f6f2;
