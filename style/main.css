@@ -760,8 +760,8 @@ hr {
     color: #f2a44c;
     background: #54636a; }
   .tile.tile-81 .tile-inner {
-    color: #fe4171;
-    background: #3840a4; }
+    color: #000373;
+    background: #31ff6f; }
   .tile.tile-82 .tile-inner {
     color: #e1cebc;
     background: #a78669; }
@@ -863,10 +863,6 @@ hr {
   .tile.tile-123 .tile-inner {
     color: #6900e0;
     background: #357432;
-    font-size: 26px; }
-  .tile.tile-132 .tile-inner {
-    color: #000373;
-    background: #31ff6f; 
     font-size: 26px; }
   .tile.tile-133 .tile-inner {
     color: #ff8edb;
