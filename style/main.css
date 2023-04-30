@@ -520,7 +520,7 @@ hr {
   .tile.tile-← .tile-inner {
     color: #f7271d;
     background: #59cb2e; }
-  .tile.tile-♫.tile-inner {
+  .tile.tile-♫ .tile-inner {
     color: #141115;
     background: #eac9ff; }
   .tile.tile-1 .tile-inner {
