@@ -513,10 +513,8 @@ hr {
     background: #970000; }
   .tile.tile-✖ .tile-inner {
     color: #e30101;
-    background: #970000;
-    text-align: left;
-    z-index: 80;
-    font-size: 99px; }
+    background: #cdc1b4;
+    font-size: 444px; }
   .tile.tile-✓ .tile-inner {
     color: #9ffd91;
     background: #53ce42; }
