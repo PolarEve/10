@@ -502,7 +502,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #30126f;
+    background: #321b77;
     color: #f9f6f2;
     text-align: center;
     font-weight: bold;
@@ -518,12 +518,6 @@ hr {
   .tile.tile-✓ .tile-inner {
     color: #9ffd91;
     background: #53ce42; }
-  .tile.tile-♫ .tile-inner {
-    color: #141115;
-    background: #eac9ff; }
-  .tile.tile-↻ .tile-inner {
-    color: #110d0b;
-    background: #c3c9c2; }
   .tile.tile-1 .tile-inner {
     color: #f9f6f2;
     background: #f2f229; }
