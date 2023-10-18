@@ -635,11 +635,11 @@ hr {
     color: #ede30a;
     background: #ed4b0a; }
   .tile.tile-37 .tile-inner {
+    color: #ffc5c5;
+    background: #47b9ef; }
+  .tile.tile-38 .tile-inner {
     color: #c0b019;
     background: #1f4f96; }
-  .tile.tile-38 .tile-inner {
-    color: #7fa112;
-    background: #3d0c30; }
   .tile.tile-39 .tile-inner {
     color: #0d2109;
     background: #f9fb54; }
@@ -824,8 +824,8 @@ hr {
     color: #48bec9;
     background: #266b4a; }
   .tile.tile-100 .tile-inner {
-    color: #ffc5c5;
-    background: #47b9ef;
+    color: #811f2c;
+    background: #2aa3e0;
     font-size: 26px; }
   .tile.tile-106 .tile-inner {
     color: #f6e80a;
