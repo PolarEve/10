@@ -870,6 +870,10 @@ hr {
     color: #f387d9;
     background: #f387d9;
     font-size: 25px; }
+  .tile.tile-125 .tile-inner {
+    color: #ff7171;
+    background: #cdcdcd;
+    font-size: 26px; }
   .tile.tile-129 .tile-inner {
     color: #da0c0c;
     background: #d7d7d7; 
@@ -990,6 +994,14 @@ hr {
   .tile.tile-335 .tile-inner {
     color: #179500;
     background: #fb599e;
+    font-size: 26px; }
+  .tile.tile-400 .tile-inner {
+    color: #6fbb00;
+    background: #8aff82;
+    font-size: 26px; }
+  .tile.tile-401 .tile-inner {
+    color: #fb82ff;
+    background: #5b6800;
     font-size: 26px; }
   .tile.tile-411 .tile-inner {
     color: #090e43;
@@ -1155,6 +1167,10 @@ hr {
     color: #feab95;
     background: #f0fed4;
     font-size: 16px; }
+  .tile.tile-Atherd .tile-inner {
+    color: #010603;
+    background: #228039;
+    font-size: 12px; }
   .tile.tile--1 .tile-inner {
     color: #f9f6f2;
     background: #5b2b21; }
