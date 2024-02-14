@@ -521,10 +521,7 @@ hr {
   .tile.tile-❤️️ .tile-inner {
     color: #000000;
     background: #cd1b59; 
-    box-shadow: inset 0 0 0 10px #fff0f5; }
-  .tile.tile-️💣 .tile-inner {
-    color: #000000;
-    background: #201a15; }
+    box-shadow: inset 0 0 0 4px #fff0f5; }
   .tile.tile-0 .tile-inner {
     color: #f9f6f2;
     background: #88c524; }
@@ -1149,6 +1146,10 @@ hr {
   .tile.tile-949 .tile-inner {
     color: #f9f6f2;
     background: #e2e5dc;
+    font-size: 26px; }
+  .tile.tile-950 .tile-inner {
+    color: #f9f6f2;
+    background: #e5d2e8;
     font-size: 26px; }
   .tile.tile-999 .tile-inner {
     color: #f9f6f2;
