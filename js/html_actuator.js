@@ -94,6 +94,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === 550) inner.textContent = 50;
   if (tile.value === 551) inner.textContent = 51;
   if (tile.value === 661) inner.textContent = 61;
+  if (tile.value === 909) inner.textContent = 99;
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first
